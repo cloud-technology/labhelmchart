@@ -36,3 +36,6 @@ labhelmchart/pychart	0.1.0        	1.16.0     	A Helm chart for Kubernetes
 # to install chart
 helm install py labhelmchart/pychart -n default
 ```
+
+### Private repository for github 
+https://blog.softwaremill.com/hosting-helm-private-repository-from-github-ff3fa940d0b7
