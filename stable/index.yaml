@@ -9,6 +9,6 @@ entries:
     name: pychart
     type: application
     urls:
-    - https://cloud-technology.github.io/labhelmchart/pychart-0.1.0.tgz
+    - https://cloud-technology.github.io/labhelmchart/stable/pychart-0.1.0.tgz
     version: 0.1.0
 generated: "2020-12-21T09:26:46.345115+08:00"
